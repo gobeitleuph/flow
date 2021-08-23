@@ -11,6 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
 
+  syncfusion_flutter_calendar: ^19.2.56
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
